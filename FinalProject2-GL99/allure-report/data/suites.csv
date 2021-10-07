@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Oct 07 03:33:21 GET 2021","Thu Oct 07 03:33:22 GET 2021","958","Default Suite","FinalProject2-GL99","MainTest","MainTest","Test0","Test0","Helper test for failed case"
+"passed","Thu Oct 07 03:33:23 GET 2021","Thu Oct 07 03:33:23 GET 2021","1","Default Suite","FinalProject2-GL99","MainTest","MainTest","Test2","Test2","Helper test for failed case"
+"passed","Thu Oct 07 03:35:02 GET 2021","Thu Oct 07 03:35:04 GET 2021","2063","Default Suite","FinalProject2-GL99","MainTest","MainTest","Test1","Test1","Test1 for allure"

@@ -1,0 +1,109 @@
+{
+  "uid" : "c159e26ea2c1c0d6",
+  "name" : "Test2",
+  "fullName" : "MainTest.Test2",
+  "historyId" : "1800e8f170cc730f64cb936c42f62afe",
+  "time" : {
+    "start" : 1633563203114,
+    "stop" : 1633563203115,
+    "duration" : 1
+  },
+  "description" : "Helper test for failed case",
+  "descriptionHtml" : "<p>Helper test for failed case</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Start",
+    "time" : {
+      "start" : 1633563196055,
+      "stop" : 1633563201050,
+      "duration" : 4995
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MainTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "FinalProject2-GL99"
+  }, {
+    "name" : "subSuite",
+    "value" : "MainTest"
+  }, {
+    "name" : "host",
+    "value" : "SkylancerT2"
+  }, {
+    "name" : "thread",
+    "value" : "4060@SkylancerT2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Test2 run:"
+  }, {
+    "name" : "story",
+    "value" : "Test2 results:"
+  }, {
+    "name" : "epic",
+    "value" : "Test2 state:"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ {
+      "uid" : "f4b8712461aa506c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633563161719,
+        "stop" : 1633563161720,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7d8b5e6cb3c99682",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tnull",
+      "time" : {
+        "start" : 1633562373303,
+        "stop" : 1633562374206,
+        "duration" : 903
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c159e26ea2c1c0d6.json",
+  "parameterValues" : [ ]
+}

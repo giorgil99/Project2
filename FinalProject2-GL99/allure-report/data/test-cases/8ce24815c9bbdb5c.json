@@ -1,0 +1,284 @@
+{
+  "uid" : "8ce24815c9bbdb5c",
+  "name" : "Test1",
+  "fullName" : "MainTest.Test1",
+  "historyId" : "f11cd9f7360e7a561c574207709b799",
+  "time" : {
+    "start" : 1633561941968,
+    "stop" : 1633561943800,
+    "duration" : 1832
+  },
+  "description" : "Test1 for allure",
+  "descriptionHtml" : "<p>Test1 for allure</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Start",
+    "time" : {
+      "start" : 1633561936854,
+      "stop" : 1633561941915,
+      "duration" : 5061
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Test1 for allure",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ClickOnMyAcc",
+      "time" : {
+        "start" : 1633561942037,
+        "stop" : 1633561942186,
+        "duration" : 149
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ClickOnRegister",
+      "time" : {
+        "start" : 1633561942186,
+        "stop" : 1633561943040,
+        "duration" : 854
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "SetName",
+      "time" : {
+        "start" : 1633561943042,
+        "stop" : 1633561943097,
+        "duration" : 55
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "txt",
+        "value" : "name"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "SetLastName",
+      "time" : {
+        "start" : 1633561943097,
+        "stop" : 1633561943145,
+        "duration" : 48
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "txt",
+        "value" : "name2"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "SetMail",
+      "time" : {
+        "start" : 1633561943146,
+        "stop" : 1633561943208,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "txt",
+        "value" : "newsday10028@gmail.com"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "SetTelephone",
+      "time" : {
+        "start" : 1633561943208,
+        "stop" : 1633561943260,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "txt",
+        "value" : "5555555555"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "SetPassword",
+      "time" : {
+        "start" : 1633561943260,
+        "stop" : 1633561943311,
+        "duration" : 51
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "txt",
+        "value" : "passwordforreg"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ConfirmPassword",
+      "time" : {
+        "start" : 1633561943311,
+        "stop" : 1633561943364,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "txt",
+        "value" : "passwordforreg"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ClickOnNewsletter",
+      "time" : {
+        "start" : 1633561943364,
+        "stop" : 1633561943416,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ClickOnPrivacyPolicy",
+      "time" : {
+        "start" : 1633561943416,
+        "stop" : 1633561943466,
+        "duration" : 50
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ClickOnSubmit",
+      "time" : {
+        "start" : 1633561943466,
+        "stop" : 1633561943797,
+        "duration" : 331
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MainTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "FinalProject2-GL99"
+  }, {
+    "name" : "subSuite",
+    "value" : "MainTest"
+  }, {
+    "name" : "host",
+    "value" : "SkylancerT2"
+  }, {
+    "name" : "thread",
+    "value" : "19164@SkylancerT2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "TEST1 Run"
+  }, {
+    "name" : "story",
+    "value" : "TEST1 Results"
+  }, {
+    "name" : "epic",
+    "value" : "TEST1"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ce24815c9bbdb5c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "FinalProject2-GL99",
+      "children" : [ {
+        "name" : "MainTest",
+        "children" : [ {
+          "name" : "Test0",
+          "uid" : "f1127c17269ce20f",
+          "parentUid" : "d49785fcefd73654a5f46e58062b5d8e",
+          "status" : "failed",
+          "time" : {
+            "start" : 1633563201126,
+            "stop" : 1633563202084,
+            "duration" : 958
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Test2",
+          "uid" : "c159e26ea2c1c0d6",
+          "parentUid" : "d49785fcefd73654a5f46e58062b5d8e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1633563203114,
+            "stop" : 1633563203115,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Test1",
+          "uid" : "71c1e3c165e351a0",
+          "parentUid" : "d49785fcefd73654a5f46e58062b5d8e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1633563302185,
+            "stop" : 1633563304248,
+            "duration" : 2063
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d49785fcefd73654a5f46e58062b5d8e"
+      } ],
+      "uid" : "df78de64dd906a9af03e408e8192d6fc"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

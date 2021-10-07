@@ -1,0 +1,9 @@
+MainTest.class
+SQLConnection\DataFromSQL.class
+SelindeConfigAndListeners\LocalListener.class
+SQLConnection\SqlTableGeneration.class
+SelindeConfigAndListeners\SelenideConfig.class
+SelindeConfigAndListeners\GetWebConnection.class
+SelindeConfigAndListeners\Attachments.class
+SQLConnection\ServerConnector.class
+POMAndFluentAPI\RegistrationPage.class

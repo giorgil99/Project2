@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome</value>
+    </parameter>
+    <parameter>
+        <key>Browser.Version</key>
+        <value>65.0</value>
+    </parameter>
+    <parameter>
+        <key>TestByGL99</key>
+        <value>Project2</value>
+    </parameter>
+</environment>

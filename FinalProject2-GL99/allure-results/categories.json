@@ -1,0 +1,26 @@
+[
+  {
+    "name": "222 Ignored tests",
+    "matchedStatuses": ["skipped"]
+  },
+  {
+    "name": "222 Infrastructure problems",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*bye-bye.*"
+  },
+  {
+    "name": "222 Outdated tests",
+    "matchedStatuses": ["broken"],
+    "traceRegex": ".*FileNotFoundException.*"
+  },
+  {
+    "name": "222 Product defects",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*bye-bye.*",
+    "traceRegex": ".*FAILED.*"
+  },
+  {
+    "name": "222 Test defects",
+    "matchedStatuses": ["broken"]
+  }
+]

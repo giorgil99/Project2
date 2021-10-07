@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The following asserts failed:\n\tnull",
+      "children" : [ {
+        "name" : "Test0",
+        "uid" : "f1127c17269ce20f",
+        "parentUid" : "5c5068a540d5fe636bd601a9f78ff03b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633563201126,
+          "stop" : 1633563202084,
+          "duration" : 958
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c5068a540d5fe636bd601a9f78ff03b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

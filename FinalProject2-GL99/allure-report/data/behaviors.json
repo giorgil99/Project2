@@ -1,0 +1,80 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "helper test2 state",
+    "children" : [ {
+      "name" : "helper test run",
+      "children" : [ {
+        "name" : "helper test now",
+        "children" : [ {
+          "name" : "Test0",
+          "uid" : "f1127c17269ce20f",
+          "parentUid" : "dee9a646ddfd1ca9bb28c66bf1ce11d0",
+          "status" : "failed",
+          "time" : {
+            "start" : 1633563201126,
+            "stop" : 1633563202084,
+            "duration" : 958
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "dee9a646ddfd1ca9bb28c66bf1ce11d0"
+      } ],
+      "uid" : "fdb270a1f97425269dc608c91db0ecbd"
+    } ],
+    "uid" : "061d9082d08ac7471dfaab703e68ba64"
+  }, {
+    "name" : "Test2 state:",
+    "children" : [ {
+      "name" : "Test2 run:",
+      "children" : [ {
+        "name" : "Test2 results:",
+        "children" : [ {
+          "name" : "Test2",
+          "uid" : "c159e26ea2c1c0d6",
+          "parentUid" : "a1998bccf639c1462df357c124f929d3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1633563203114,
+            "stop" : 1633563203115,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a1998bccf639c1462df357c124f929d3"
+      } ],
+      "uid" : "12cf7333ea9d11e250d086709c46823b"
+    } ],
+    "uid" : "02ee94e9137fe61cbfaabd99f9bd486e"
+  }, {
+    "name" : "TEST1 state:",
+    "children" : [ {
+      "name" : "TEST1 run:",
+      "children" : [ {
+        "name" : "TEST1 results",
+        "children" : [ {
+          "name" : "Test1",
+          "uid" : "71c1e3c165e351a0",
+          "parentUid" : "3f4fa041e0363cf89d67b206174db7ea",
+          "status" : "passed",
+          "time" : {
+            "start" : 1633563302185,
+            "stop" : 1633563304248,
+            "duration" : 2063
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3f4fa041e0363cf89d67b206174db7ea"
+      } ],
+      "uid" : "d08dcf2b1f6925a803007b0dce6c1fa2"
+    } ],
+    "uid" : "c62aa4255ba6686b975bddadbfe42c11"
+  } ]
+}
